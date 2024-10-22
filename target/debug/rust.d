@@ -1,1 +1,1 @@
-/Users/davidanderson/usb/target/debug/rust: /Users/davidanderson/usb/src/main.rs /Users/davidanderson/usb/src/usb.rs
+/home/lappy/usb/target/debug/rust: /home/lappy/usb/src/main.rs /home/lappy/usb/src/usb.rs
